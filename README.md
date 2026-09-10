@@ -78,3 +78,14 @@ The analysis helps identify high-value customers, strong and weak product catego
 ## 💡 Outcome
 
 This project demonstrates my ability to use SQL to transform raw e-commerce data into meaningful business insights and support data-driven decision-making.
+
+## 📊 SQL Analysis Screenshots
+
+### 1. Data Cleaning & Preparation
+![Data Cleaning](SQL-Screenshot-1-Data-Cleaning.png)
+
+### 2. Business Analysis
+![Business Analysis](SQL-Screenshot-2-Business-Analysis.png)
+
+### 3. RFM Customer Segmentation
+![RFM Analysis](SQL-Screenshot-3-RFM-Analysis.png)
